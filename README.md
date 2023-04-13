@@ -12,7 +12,7 @@ Les parties supprimées sont celles contenant
 2. Tout algorithme de décryption de variables
 3. Toute partie contenant des addresses / offsets de variables
 
-#Les techniques permettant de mapper le driver en mémoire depuis le userland sont aussi redacted
+# Les techniques permettant de mapper le driver en mémoire depuis le userland sont aussi redacted
 ---
 Vous trouverez ici:
 
