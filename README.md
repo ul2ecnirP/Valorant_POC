@@ -5,7 +5,9 @@ GameHacking: jeu Valorant, uniquement preuve de concept
 # IMPORTANT
 
 Vous ne trouverez qu'une petite partie du projet, les fonctions intéréssantes en therme de code et de cybersécurité.
+
 Ce projet n'a jamais été commercialisé ni diffusé sous aucune forme
+
 Les parties supprimées sont celles contenant 
 ---
 1. Toute partie graphique
